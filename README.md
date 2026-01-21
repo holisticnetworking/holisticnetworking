@@ -53,4 +53,17 @@ A few repos that represent my “shipping” style:
 
 ## Ask me about
 
-- Des
+- Designing maintainable systems that survive real life  
+- Forms, templates, and UI patterns that reduce user error  
+- Content modeling and metadata workflows  
+- Practical modernization: “make it better without breaking everything”  
+- Debugging the “this shouldn’t be happening” kind of problems 😅  
+
+---
+
+## Contact / links
+
+🌐 https://holisticnetworking.net  
+🐙 https://github.com/holisticnetworking
+
+*(For repo-related stuff, Issues are the fastest way to reach me.)*
